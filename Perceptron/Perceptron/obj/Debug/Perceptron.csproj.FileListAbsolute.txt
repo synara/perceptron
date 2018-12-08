@@ -5,3 +5,10 @@ C:\Users\Synara\Desktop\perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.ex
 C:\Users\Synara\Desktop\perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
 C:\Users\Synara\Desktop\perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.exe
 C:\Users\Synara\Desktop\perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csprojResolveAssemblyReference.cache
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+C:\Users\Synara\Desktop\and again\perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
